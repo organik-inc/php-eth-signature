@@ -1,0 +1,15 @@
+{
+	"name": "organik-inc/php-eth-signature",
+	"license": "MIT",
+	"require": {
+		"php": ">=7.3",
+		"kornrunner/keccak": "^1.1",
+		"simplito/elliptic-php": "^1.0"
+	},
+	"authors": [
+		{
+			"name": "Organik, Inc.",
+			"email": "0x@organik.express"
+		}
+	]
+}
